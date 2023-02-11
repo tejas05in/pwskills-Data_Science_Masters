@@ -1,0 +1,56 @@
+2023-02-11 23:17:10,897 pickle loaded: C:\Users\tejas\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\builtins.pyi
+2023-02-11 23:17:11,020 pickle loaded: C:\Users\tejas\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2023-02-11 23:17:18,970 this is my info log
+2023-02-11 23:17:24,050 diff parser start
+2023-02-11 23:17:24,050 line_lengths old: 1; new: 1
+2023-02-11 23:17:24,051 -> code[replace] old[1:1] new[1:1]
+2023-02-11 23:17:24,052 parse_part from 1 to 1 (to 0 in part parser)
+2023-02-11 23:17:24,053 diff parser end
+2023-02-11 23:17:24,126 pickle loaded: C:\Users\tejas\anaconda3\lib\logging\__init__.py
+2023-02-11 23:17:30,457 this is my debug log
+2023-02-11 23:17:32,185 diff parser start
+2023-02-11 23:17:32,221 line_lengths old: 1; new: 1
+2023-02-11 23:17:32,222 -> code[replace] old[1:1] new[1:1]
+2023-02-11 23:17:32,223 parse_part from 1 to 1 (to 0 in part parser)
+2023-02-11 23:17:32,223 diff parser end
+2023-02-11 23:17:35,216 diff parser start
+2023-02-11 23:17:35,217 line_lengths old: 1; new: 1
+2023-02-11 23:17:35,218 -> code[replace] old[1:1] new[1:1]
+2023-02-11 23:17:35,219 parse_part from 1 to 1 (to 0 in part parser)
+2023-02-11 23:17:35,220 diff parser end
+2023-02-11 23:17:43,070 this is my warning
+2023-02-11 23:18:35,224 diff parser start
+2023-02-11 23:18:35,225 line_lengths old: 1; new: 1
+2023-02-11 23:18:35,226 -> code[replace] old[1:1] new[1:1]
+2023-02-11 23:18:35,227 parse_part from 1 to 1 (to 0 in part parser)
+2023-02-11 23:18:35,228 diff parser end
+2023-02-11 23:18:38,085 diff parser start
+2023-02-11 23:18:38,087 line_lengths old: 1; new: 1
+2023-02-11 23:18:38,088 -> code[replace] old[1:1] new[1:1]
+2023-02-11 23:18:38,090 parse_part from 1 to 1 (to 0 in part parser)
+2023-02-11 23:18:38,091 diff parser end
+2023-02-11 23:18:40,917 diff parser start
+2023-02-11 23:18:40,919 line_lengths old: 1; new: 1
+2023-02-11 23:18:40,919 -> code[replace] old[1:1] new[1:1]
+2023-02-11 23:18:40,920 parse_part from 1 to 1 (to 0 in part parser)
+2023-02-11 23:18:40,921 diff parser end
+2023-02-11 23:18:43,302 diff parser start
+2023-02-11 23:18:43,303 line_lengths old: 1; new: 1
+2023-02-11 23:18:43,304 -> code[replace] old[1:1] new[1:1]
+2023-02-11 23:18:43,305 parse_part from 1 to 1 (to 0 in part parser)
+2023-02-11 23:18:43,305 diff parser end
+2023-02-11 23:18:46,181 diff parser start
+2023-02-11 23:18:46,182 line_lengths old: 1; new: 1
+2023-02-11 23:18:46,183 -> code[replace] old[1:1] new[1:1]
+2023-02-11 23:18:46,184 parse_part from 1 to 1 (to 0 in part parser)
+2023-02-11 23:18:46,185 diff parser end
+2023-02-11 23:18:56,339 diff parser start
+2023-02-11 23:18:56,340 line_lengths old: 1; new: 1
+2023-02-11 23:18:56,341 -> code[replace] old[1:1] new[1:1]
+2023-02-11 23:18:56,344 parse_part from 1 to 1 (to 0 in part parser)
+2023-02-11 23:18:56,344 diff parser end
+2023-02-11 23:18:59,563 diff parser start
+2023-02-11 23:18:59,564 line_lengths old: 1; new: 1
+2023-02-11 23:18:59,565 -> code[replace] old[1:1] new[1:1]
+2023-02-11 23:18:59,567 parse_part from 1 to 1 (to 0 in part parser)
+2023-02-11 23:18:59,567 diff parser end
