@@ -12,6 +12,8 @@ content = edgeBrowser.page_source.encode("utf-8").strip()
 soup = BeautifulSoup(content,"html.parser")
 edgeBrowser.close()
 
+#with open("D:/pwskills-Data_Science_Masters/assignments/web_scrapper/scrapped.html" , "w" , encoding="utf-8") as f:
+#    f.write(str(content))
 #print(soup)
 
 videos =  soup.find_all("a",id="thumbnail")
