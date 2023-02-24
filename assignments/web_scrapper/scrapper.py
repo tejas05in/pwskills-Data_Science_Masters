@@ -6,14 +6,14 @@ import pandas as pd
 
 edgeBrowser = webdriver.Edge("D:/pwskills-Data_Science_Masters/assignments/web_scrapper/msedgedriver.exe")
 edgeBrowser.get("https://www.youtube.com/@PW-Foundation/videos")
-edgeBrowser.execute_script("window.scrollTo(0,2000)")
+edgeBrowser.execute_script("window.scrollTo(0,10000)")
 time.sleep(1)
 content = edgeBrowser.page_source.encode("utf-8").strip()
 soup = BeautifulSoup(content,"html.parser")
 edgeBrowser.close()
 
 #with open("D:/pwskills-Data_Science_Masters/assignments/web_scrapper/scrapped.html" , "w" , encoding="utf-8") as f:
-#    f.write(str(content))
+#    f.write(str(soup))
 #print(soup)
 
 videos =  soup.find_all("a",id="thumbnail")
