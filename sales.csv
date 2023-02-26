@@ -1,0 +1,101 @@
+Order Date,Ship Date,Category,Segment,Country,City,State,Country,Sales,Quantity,Discount,Profit
+11/8/2016,11/11/2016,Furniture,Consumer,United States,Henderson,Kentucky,United States,261.96,2,0.0,41.9136
+11/8/2016,11/11/2016,Furniture,Consumer,United States,Henderson,Kentucky,United States,731.94,3,0.0,219.582
+6/12/2016,6/16/2016,Office Supplies,Corporate,United States,Los Angeles,California,United States,14.62,2,0.0,6.8714
+10/11/2015,10/18/2015,Furniture,Consumer,United States,Fort Lauderdale,Florida,United States,957.5775,5,0.45,-383.031
+10/11/2015,10/18/2015,Office Supplies,Consumer,United States,Fort Lauderdale,Florida,United States,22.368,2,0.2,2.5164
+6/9/2014,6/14/2014,Furniture,Consumer,United States,Los Angeles,California,United States,48.86,7,0.0,14.1694
+6/9/2014,6/14/2014,Office Supplies,Consumer,United States,Los Angeles,California,United States,7.28,4,0.0,1.9656
+6/9/2014,6/14/2014,Technology,Consumer,United States,Los Angeles,California,United States,907.152,6,0.2,90.7152
+6/9/2014,6/14/2014,Office Supplies,Consumer,United States,Los Angeles,California,United States,18.504,3,0.2,5.7825
+6/9/2014,6/14/2014,Office Supplies,Consumer,United States,Los Angeles,California,United States,114.9,5,0.0,34.47
+6/9/2014,6/14/2014,Furniture,Consumer,United States,Los Angeles,California,United States,1706.184,9,0.2,85.3092
+6/9/2014,6/14/2014,Technology,Consumer,United States,Los Angeles,California,United States,911.424,4,0.2,68.3568
+4/15/2017,4/20/2017,Office Supplies,Consumer,United States,Concord,North Carolina,United States,15.552,3,0.2,5.4432
+12/5/2016,12/10/2016,Office Supplies,Consumer,United States,Seattle,Washington,United States,407.976,3,0.2,132.5922
+11/22/2015,11/26/2015,Office Supplies,Home Office,United States,Fort Worth,Texas,United States,68.81,5,0.8,-123.858
+11/22/2015,11/26/2015,Office Supplies,Home Office,United States,Fort Worth,Texas,United States,2.544,3,0.8,-3.816
+11/11/2014,11/18/2014,Office Supplies,Consumer,United States,Madison,Wisconsin,United States,665.88,6,0.0,13.3176
+5/13/2014,5/15/2014,Office Supplies,Consumer,United States,West Jordan,Utah,United States,55.5,2,0.0,9.99
+8/27/2014,9/1/2014,Office Supplies,Consumer,United States,San Francisco,California,United States,8.56,2,0.0,2.4824
+8/27/2014,9/1/2014,Technology,Consumer,United States,San Francisco,California,United States,213.48,3,0.2,16.011
+8/27/2014,9/1/2014,Office Supplies,Consumer,United States,San Francisco,California,United States,22.72,4,0.2,7.384
+12/9/2016,12/13/2016,Office Supplies,Corporate,United States,Fremont,Nebraska,United States,19.46,7,0.0,5.0596
+12/9/2016,12/13/2016,Office Supplies,Corporate,United States,Fremont,Nebraska,United States,60.34,7,0.0,15.6884
+7/16/2017,7/18/2017,Furniture,Consumer,United States,Philadelphia,Pennsylvania,United States,71.372,2,0.3,-1.0196
+9/25/2015,9/30/2015,Furniture,Consumer,United States,Orem,Utah,United States,1044.63,3,0.0,240.2649
+1/16/2016,1/20/2016,Office Supplies,Consumer,United States,Los Angeles,California,United States,11.648,2,0.2,4.2224
+1/16/2016,1/20/2016,Technology,Consumer,United States,Los Angeles,California,United States,90.57,3,0.0,11.7741
+9/17/2015,9/21/2015,Furniture,Consumer,United States,Philadelphia,Pennsylvania,United States,3083.43,7,0.5,-1665.0522
+9/17/2015,9/21/2015,Office Supplies,Consumer,United States,Philadelphia,Pennsylvania,United States,9.618,2,0.7,-7.0532
+9/17/2015,9/21/2015,Furniture,Consumer,United States,Philadelphia,Pennsylvania,United States,124.2,3,0.2,15.525
+9/17/2015,9/21/2015,Office Supplies,Consumer,United States,Philadelphia,Pennsylvania,United States,3.264,2,0.2,1.1016
+9/17/2015,9/21/2015,Office Supplies,Consumer,United States,Philadelphia,Pennsylvania,United States,86.304,6,0.2,9.7092
+9/17/2015,9/21/2015,Office Supplies,Consumer,United States,Philadelphia,Pennsylvania,United States,6.858,6,0.7,-5.715
+9/17/2015,9/21/2015,Office Supplies,Consumer,United States,Philadelphia,Pennsylvania,United States,15.76,2,0.2,3.546
+10/19/2017,10/23/2017,Office Supplies,Home Office,United States,Houston,Texas,United States,29.472,3,0.2,9.9468
+12/8/2016,12/10/2016,Technology,Corporate,United States,Richardson,Texas,United States,1097.544,7,0.2,123.4737
+12/8/2016,12/10/2016,Furniture,Corporate,United States,Richardson,Texas,United States,190.92,5,0.6,-147.963
+12/27/2015,12/31/2015,Office Supplies,Home Office,United States,Houston,Texas,United States,113.328,9,0.2,35.415
+12/27/2015,12/31/2015,Furniture,Home Office,United States,Houston,Texas,United States,532.3992,3,0.32,-46.9764
+12/27/2015,12/31/2015,Furniture,Home Office,United States,Houston,Texas,United States,212.058,3,0.3,-15.147
+12/27/2015,12/31/2015,Technology,Home Office,United States,Houston,Texas,United States,371.168,4,0.2,41.7564
+9/10/2017,9/15/2017,Technology,Corporate,United States,Naperville,Illinois,United States,147.168,4,0.2,16.5564
+7/17/2016,7/22/2016,Office Supplies,Corporate,United States,Los Angeles,California,United States,77.88,2,0.0,3.894
+9/19/2017,9/23/2017,Office Supplies,Corporate,United States,Melbourne,Florida,United States,95.616,2,0.2,9.5616
+3/11/2016,3/13/2016,Technology,Corporate,United States,Eagan,Minnesota,United States,45.98,2,0.0,19.7714
+3/11/2016,3/13/2016,Office Supplies,Corporate,United States,Eagan,Minnesota,United States,17.46,2,0.0,8.2062
+10/20/2014,10/25/2014,Office Supplies,Consumer,United States,Westland,Michigan,United States,211.96,4,0.0,8.4784
+6/20/2016,6/25/2016,Technology,Consumer,United States,Dover,Delaware,United States,45.0,3,0.0,4.95
+6/20/2016,6/25/2016,Technology,Consumer,United States,Dover,Delaware,United States,21.8,2,0.0,6.104
+4/18/2015,4/22/2015,Office Supplies,Consumer,United States,New Albany,Indiana,United States,38.22,6,0.0,17.9634
+4/18/2015,4/22/2015,Office Supplies,Consumer,United States,New Albany,Indiana,United States,75.18,6,0.0,35.3346
+4/18/2015,4/22/2015,Furniture,Consumer,United States,New Albany,Indiana,United States,6.16,2,0.0,2.9568
+4/18/2015,4/22/2015,Furniture,Consumer,United States,New Albany,Indiana,United States,89.99,1,0.0,17.0981
+12/11/2016,12/17/2016,Office Supplies,Corporate,United States,New York City,New York,United States,15.26,7,0.0,6.2566
+12/11/2016,12/17/2016,Technology,Corporate,United States,New York City,New York,United States,1029.95,5,0.0,298.6855
+6/17/2016,6/18/2016,Office Supplies,Consumer,United States,Troy,New York,United States,208.56,6,0.0,52.14
+6/17/2016,6/18/2016,Office Supplies,Consumer,United States,Troy,New York,United States,32.4,5,0.0,15.552
+6/17/2016,6/18/2016,Furniture,Consumer,United States,Troy,New York,United States,319.41,5,0.1,7.098
+6/17/2016,6/18/2016,Office Supplies,Consumer,United States,Troy,New York,United States,14.56,2,0.0,6.9888
+6/17/2016,6/18/2016,Technology,Consumer,United States,Troy,New York,United States,30.0,2,0.0,3.3
+6/17/2016,6/18/2016,Office Supplies,Consumer,United States,Troy,New York,United States,48.48,4,0.2,16.362
+6/17/2016,6/18/2016,Office Supplies,Consumer,United States,Troy,New York,United States,1.68,1,0.0,0.84
+11/24/2015,11/30/2015,Technology,Consumer,United States,Los Angeles,California,United States,13.98,2,0.0,6.1512
+11/24/2015,11/30/2015,Office Supplies,Consumer,United States,Los Angeles,California,United States,25.824,6,0.2,9.3612
+11/24/2015,11/30/2015,Office Supplies,Consumer,United States,Los Angeles,California,United States,146.73,3,0.0,68.9631
+11/24/2015,11/30/2015,Furniture,Consumer,United States,Los Angeles,California,United States,79.76,4,0.0,22.3328
+4/30/2015,5/5/2015,Furniture,Home Office,United States,Chicago,Illinois,United States,213.115,5,0.3,-15.2225
+12/5/2014,12/10/2014,Office Supplies,Corporate,United States,Gilbert,Arizona,United States,1113.024,8,0.2,111.3024
+12/5/2014,12/10/2014,Technology,Corporate,United States,Gilbert,Arizona,United States,167.968,4,0.2,62.988
+6/4/2016,6/6/2016,Office Supplies,Consumer,United States,Springfield,Virginia,United States,75.88,2,0.0,35.6636
+9/18/2016,9/23/2016,Office Supplies,Consumer,United States,New York City,New York,United States,4.616,1,0.2,1.731
+9/14/2017,9/17/2017,Office Supplies,Consumer,United States,Jackson,Michigan,United States,19.05,3,0.0,8.763
+4/26/2015,5/2/2015,Furniture,Consumer,United States,Memphis,Tennessee,United States,831.936,8,0.2,-114.3912
+4/26/2015,5/2/2015,Furniture,Consumer,United States,Memphis,Tennessee,United States,97.04,2,0.2,1.213
+4/26/2015,5/2/2015,Office Supplies,Consumer,United States,Memphis,Tennessee,United States,72.784,1,0.2,-18.196
+12/9/2017,12/11/2017,Office Supplies,Corporate,United States,Houston,Texas,United States,1.248,3,0.8,-1.9344
+12/9/2017,12/11/2017,Furniture,Corporate,United States,Houston,Texas,United States,9.708,3,0.6,-5.8248
+12/9/2017,12/11/2017,Office Supplies,Corporate,United States,Houston,Texas,United States,27.24,3,0.2,2.724
+11/26/2014,12/1/2014,Furniture,Consumer,United States,Houston,Texas,United States,19.3,5,0.6,-14.475
+6/12/2016,6/15/2016,Office Supplies,Corporate,United States,Decatur,Alabama,United States,208.16,1,0.0,56.2032
+6/12/2016,6/15/2016,Office Supplies,Corporate,United States,Decatur,Alabama,United States,16.74,3,0.0,8.0352
+10/12/2014,10/16/2014,Office Supplies,Consumer,United States,San Francisco,California,United States,14.9,5,0.0,4.172
+10/12/2014,10/16/2014,Office Supplies,Consumer,United States,San Francisco,California,United States,21.39,1,0.0,6.2031
+9/3/2015,9/8/2015,Office Supplies,Corporate,United States,Durham,North Carolina,United States,200.984,7,0.2,62.8075
+11/13/2017,11/16/2017,Office Supplies,Home Office,United States,Chicago,Illinois,United States,230.376,3,0.2,-48.9549
+5/28/2017,5/30/2017,Furniture,Consumer,United States,Columbia,South Carolina,United States,301.96,2,0.0,33.2156
+10/26/2017,11/2/2017,Technology,Consumer,United States,Rochester,Minnesota,United States,19.99,1,0.0,6.7966
+10/26/2017,11/2/2017,Office Supplies,Consumer,United States,Rochester,Minnesota,United States,6.16,2,0.0,2.9568
+4/5/2016,4/10/2016,Office Supplies,Home Office,United States,Houston,Texas,United States,158.368,7,0.2,13.8572
+9/17/2016,9/22/2016,Office Supplies,Corporate,United States,Los Angeles,California,United States,20.1,3,0.0,6.633
+9/17/2016,9/22/2016,Technology,Corporate,United States,Los Angeles,California,United States,73.584,2,0.2,8.2782
+9/17/2016,9/22/2016,Office Supplies,Corporate,United States,Los Angeles,California,United States,6.48,1,0.0,3.1104
+1/31/2015,2/5/2015,Office Supplies,Consumer,United States,Minneapolis,Minnesota,United States,12.96,2,0.0,6.2208
+1/31/2015,2/5/2015,Furniture,Consumer,United States,Minneapolis,Minnesota,United States,53.34,3,0.0,16.5354
+1/31/2015,2/5/2015,Office Supplies,Consumer,United States,Minneapolis,Minnesota,United States,32.96,2,0.0,16.1504
+11/6/2017,11/12/2017,Office Supplies,Home Office,United States,Portland,Oregon,United States,5.682,1,0.7,-3.788
+11/9/2017,11/11/2017,Furniture,Home Office,United States,New York City,New York,United States,96.53,7,0.0,40.5426
+6/17/2017,6/20/2017,Office Supplies,Consumer,United States,San Francisco,California,United States,51.312,3,0.2,17.9592
+9/6/2016,9/11/2016,Office Supplies,Corporate,United States,Saint Paul,Minnesota,United States,77.88,6,0.0,22.5852
+8/29/2016,9/2/2016,Office Supplies,Home Office,United States,Chicago,Illinois,United States,64.624,7,0.2,22.6184
