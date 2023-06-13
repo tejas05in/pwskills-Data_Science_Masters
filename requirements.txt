@@ -8,3 +8,5 @@ plotly
 openpyxl
 ipykernel
 statsmodels
+tensorflow
+keras
