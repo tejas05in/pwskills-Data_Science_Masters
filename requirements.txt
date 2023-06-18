@@ -10,3 +10,4 @@ ipykernel
 statsmodels
 tensorflow
 keras
+torch
