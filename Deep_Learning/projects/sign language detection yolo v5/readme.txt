@@ -1,0 +1,1 @@
+Run the notebook, get the best.pt . Replace it with best.pt in the repo and run the python app.py
